@@ -13,7 +13,8 @@ Here are my projects you'll find in this repository:
    - **Description**: I made a working personal resume website. 
    - **Tech Stack**: HTML, CSS, and Javascript.
    - **Goal**: The goal of this project was to create a working personal reume website that showcases my ability to use html and css with a touch of javascipt.
-   - LINK: https://lovely-chimera-534f19.netlify.app/
+   - LINK: https://yousefmheisen.netlify.app
+
 
  ## Skills and Tools
 
