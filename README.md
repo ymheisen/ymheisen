@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I'm Yousef Mheisen, a passionate software engineering student with a focus on learning and building innovative solutions. I enjoy working with programming languages like Java, Python, and C, and exploring technologies like Docker, Spring Boot, and AI.
+Hi, I’m Yousef Mheisen, an aspiring Information Systems professional with a strong background in computer science and software development. Currently pursuing a Bachelor’s degree in Business Administration with a focus on Information Systems at Eastern Michigan University, I’m passionate about building efficient, scalable, and user-friendly applications. With experience in Python, Java, C, C#, JavaScript, and PHP, I enjoy working on web development, database management, and game development projects. I’m always eager to learn new technologies, optimize processes, and contribute to innovative solutions.
 
 - **Current Status**: I completed an Associate's Degree in Computer Information Systems at Henry Ford College.
 - **Next Step**: Currently enrolled and taking classes at Eastern Michigan University for a Bachelor's in Business Administration and expected to finish late 2025.
