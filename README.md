@@ -3,7 +3,7 @@ Hi, I'm Yousef Mheisen, a passionate software engineering student with a focus o
 
 - **Current Status**: I completed an Associate's Degree in Computer Information Systems at Henry Ford College.
 - **Next Step**: Currently enrolled and taking classes at Eastern Michigan University for a Bachelor's in Business Administration and expected to finish late 2025.
-- **Interests**: Software development, technology, game development.
+- **Interests**: Software development, game development.
 
 ## Projects
 
